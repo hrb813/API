@@ -1,3 +1,13 @@
+#### Pre-requsites
+JAVA 1.8 : https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+MAVEN : https://maven.apache.org/download.cgi
+
+Dependencies:
+- Cucumber
+- Gherkin
+- JUnit
+
+
 #### Source project from local  
 
 - `git init` 
